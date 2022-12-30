@@ -24,7 +24,7 @@ rules:
     present: false
 
   empty-lines:
-    max: 1
+    max: 2
 
   indentation:
     spaces: 2
